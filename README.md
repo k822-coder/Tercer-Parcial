@@ -1,1 +1,6 @@
-# Tercer-Parcial
+# Tercer-Parcial  
+# UNIVERSIDAD POLITECNICA DE TULANCINGO 
+
+INGENIERIA EN ELECTRONICA Y TELECOMUNICACONES 
+
+#Karina Ibarra Aguilar
